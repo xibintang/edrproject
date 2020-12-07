@@ -1,6 +1,3 @@
 # edrproject
-For Electronic Device Recommendation Project ONLY
-
-Test
-Test
-Test
+-You will need to install the React framework, ant design framework and Material UI framework to run this code
+-course project
